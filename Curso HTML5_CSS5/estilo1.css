@@ -1,0 +1,7 @@
+
+        h1 { color: #df1bb4;font-size: 50px;background-color: rgb(235, 235, 37);}
+        a { color: blueviolet;font-size: 30px;}
+        img { width: 240px; }
+        li { font-weight: bold;color: rgb(231, 22, 186);}
+        #titulo,.texto {color: rgb(212, 74, 74);font-style: inherit;font-size: larger;}
+        ol li {color: blueviolet;font-size: 15px;font-style: oblique;}
