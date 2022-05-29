@@ -1,0 +1,40 @@
+table {
+        width: 600px;
+        border: 1px rgb(155, 115, 7) solid;
+        
+}
+
+td,tr {
+        border: 1px rgb(201, 27, 172) solid;
+        padding: 20px;
+        text-align: left;
+        
+}
+
+thead {
+        background-color: rgb(197, 118, 14);
+        
+}
+
+thead th {
+        font-weight: normal;
+}
+
+tbody {
+        background-color: rgb(9, 155, 16);
+}
+
+tbody tr:hover {
+        background-color: brown;
+        border-bottom: 1px solid rgb(132, 199, 7);
+     
+}
+
+tbody td {
+        border-bottom: 5px solid rgb(209, 24, 11);
+
+}
+
+tbody tr:nth-child(even) {
+    background-color: rgb(9, 37, 112);
+}
