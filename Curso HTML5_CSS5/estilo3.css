@@ -1,0 +1,20 @@
+body{ 
+    margin: 1px;
+
+}
+
+.exemplo { 
+        border: 10px solid chartreuse;
+        padding: 1px;
+        margin: 1px;
+        background-color: #00f000;
+        width: auto;
+        height: 50px;
+}
+
+img{ 
+    width: 40%;
+    max-height: 20%;
+}
+        
+
